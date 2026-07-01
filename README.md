@@ -2,7 +2,7 @@
 
 Role-specific portfolio for IT Operations Manager opportunities.
 
-**Live:** https://rdammala.github.io/Nordstrom_IT-Operations-Manager/
+**Live:** https://rdammala-org.github.io/Nordstrom_IT-Operations-Manager/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
